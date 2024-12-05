@@ -13,7 +13,7 @@ body {
 header {
     text-align: center;
     padding: 2rem 0;
-    background-color: #FFCCCB; /* 更浅的蓝色 */
+    background-color: #87CEEB; /* 更浅的蓝色 */
     color: #333;
     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
 }
@@ -34,7 +34,7 @@ header p {
     max-width: 800px;
     margin: 2rem auto;
     padding: 1.5rem;
-    background-color: ##F5FFFA; /* 主体部分背景 */
+    background-color: #87CEEB; /* 主体部分背景 */
     border-radius: 10px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -54,7 +54,7 @@ ul {
 }
 
 li {
-    background: #FFCCCB; /* 柔和的浅蓝色 */
+    background: #87CEEB; /* 柔和的浅蓝色 */
     margin: 0.5rem 0;
     padding: 1rem;
     border-radius: 8px;
